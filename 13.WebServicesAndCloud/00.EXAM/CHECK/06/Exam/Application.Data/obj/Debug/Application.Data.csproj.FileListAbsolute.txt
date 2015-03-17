@@ -1,0 +1,16 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Application.Data.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Application.Data.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Application.Data.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Application.Models.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Application.Models.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\obj\Debug\Application.Data.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.Data\obj\Debug\Application.Data.pdb

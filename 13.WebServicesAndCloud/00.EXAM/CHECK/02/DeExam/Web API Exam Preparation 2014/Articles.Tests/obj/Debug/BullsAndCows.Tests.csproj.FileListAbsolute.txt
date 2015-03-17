@@ -1,0 +1,14 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\BullsAndCows.Tests.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\BullsAndCows.Tests.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\BullsAndCows.Tests.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\obj\Debug\BullsAndCows.Tests.csprojResolveAssemblyReference.cache
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\obj\Debug\BullsAndCows.Tests.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\02\DeExam\Web API Exam Preparation 2014\Articles.Tests\obj\Debug\BullsAndCows.Tests.pdb

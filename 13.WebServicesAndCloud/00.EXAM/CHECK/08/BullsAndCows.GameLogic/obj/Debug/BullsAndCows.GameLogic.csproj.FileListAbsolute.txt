@@ -1,0 +1,5 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\08\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\08\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\08\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.csprojResolveAssemblyReference.cache
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\08\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\08\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.pdb

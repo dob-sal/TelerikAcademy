@@ -1,0 +1,4 @@
+C:\Users\Rayan\Desktop\Bulls-and-Cows-Exam\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.dll
+C:\Users\Rayan\Desktop\Bulls-and-Cows-Exam\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.pdb
+C:\Users\Rayan\Desktop\Bulls-and-Cows-Exam\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.dll
+C:\Users\Rayan\Desktop\Bulls-and-Cows-Exam\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.pdb

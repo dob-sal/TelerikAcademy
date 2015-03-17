@@ -1,0 +1,6 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\bin\Application.WCF.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\bin\Application.WCF.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\bin\Application.WCF.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\obj\Debug\Application.WCF.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\obj\Debug\Application.WCF.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WCF\obj\Debug\Application.WCF.csprojResolveAssemblyReference.cache

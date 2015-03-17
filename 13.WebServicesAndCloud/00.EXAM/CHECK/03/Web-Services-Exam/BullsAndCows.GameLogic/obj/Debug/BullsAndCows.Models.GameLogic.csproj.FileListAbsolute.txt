@@ -1,0 +1,4 @@
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Models.GameLogic.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Models.GameLogic.pdb
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.Models.GameLogic.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.Models.GameLogic.pdb

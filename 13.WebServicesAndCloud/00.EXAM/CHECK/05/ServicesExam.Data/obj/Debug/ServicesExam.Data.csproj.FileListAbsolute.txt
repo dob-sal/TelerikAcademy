@@ -1,0 +1,16 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\ServicesExam.Data.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\ServicesExam.Data.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\ServicesExam.Data.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\ServicesExam.Model.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\ServicesExam.Model.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\obj\Debug\ServicesExam.Data.csprojResolveAssemblyReference.cache
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\obj\Debug\ServicesExam.Data.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\05\ServicesExam.Data\obj\Debug\ServicesExam.Data.pdb

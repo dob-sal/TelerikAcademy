@@ -1,0 +1,14 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\BullAndCows.Models.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\BullAndCows.Models.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\BullAndCows.Models.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\obj\Debug\BullAndCows.Models.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\obj\Debug\BullAndCows.Models.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\MyExam\BullAndCowsGame\BullAndCows.Models\obj\Debug\BullAndCows.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll.config
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.pdb
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\EntityFramework.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\EntityFramework.xml
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.dll
+D:\Telerik\Web Services and Cloud\Exam\Exam\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.csprojResolveAssemblyReference.cache
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\03\Web-Services-Exam\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.pdb

@@ -1,0 +1,15 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\ProjectName.Model.dll.config
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\ProjectName.Model.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\ProjectName.Model.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Telerik.JustMock.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\bin\Debug\Telerik.JustMock.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\obj\Debug\ProjectName.Model.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\ProjectName.Model\obj\Debug\ProjectName.Model.pdb

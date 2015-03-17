@@ -1,0 +1,6 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.pdb
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\bin\Debug\Telerik.JustMock.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\bin\Debug\Telerik.JustMock.xml
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.dll
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\09\Telerik Academy Exam @ 23 September 2014\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.pdb

@@ -1,0 +1,1 @@
+D:\Dobrin\TelerikAcademy\13.WebServicesAndCloud\00.EXAM\CHECK\06\Exam\Application.WebServices.Tests\obj\Debug\Application.WebServices.Tests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Web.Http;
+using Microsoft.AspNet.Identity;
+using Articles.CompeteLogic;
+using Articles.Data;
+using Articles.WebAPI.Models;
+using Articles.Models;
+
+namespace Articles.WebAPI.Controllers
+{
+    public class GuessController : BaseApiController
+    {
+        private GameLogic logic;
+        public GuessController(IArticlesData data)
+            : base(data)
+        {
+            this.logic = new GameLogic();
+        }
+
+        
+
+    }
+}

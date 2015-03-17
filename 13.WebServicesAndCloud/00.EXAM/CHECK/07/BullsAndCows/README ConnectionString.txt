@@ -1,0 +1,1 @@
+<add name="BullsAndCowsConnection" connectionString="Data Source=.;Initial Catalog = BullsAndCows;Integrated Security=true" providerName="System.Data.SqlClient" />
